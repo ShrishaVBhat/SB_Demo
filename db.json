@@ -11,17 +11,6 @@
         "payRate": 100000,
         "per": "Yr"
     }, {
-        "firstName": "Dora",
-        "lastName": "Boaz",
-        "ID": "E0002",
-        "level": "X1000-2",
-        "medicalBenefits": "Employee Plus Spouse",
-        "startDate": "6/1/19",
-        "endDate": "",
-        "hrsPerWeek": 0,
-        "payRate": 100000,
-        "per": "Yr"
-    }, {
         "firstName": "Priscilla",
         "lastName": "Gault",
         "ID": "E0003",
